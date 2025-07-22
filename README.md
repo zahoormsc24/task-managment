@@ -45,7 +45,7 @@ This is a simple web-based application to help users manage and prioritize their
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/zahoormsc24/task-managment.git
-cd eisenhower-task-tool
+cd task-managment
 ```
 
 ### 2. Install Dependencies
