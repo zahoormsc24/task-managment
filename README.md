@@ -88,5 +88,5 @@ Password: test123
 ---
 
 ## 📄 License
-This project is developed for educational use in IU's DLMCSPCSP01 portfolio course.
-# eisenhower-task-tool
+This project is developed for educational use in IU's DLMCSPSE01 portfolio course.
+# task-managment
